@@ -26,7 +26,7 @@ This lab establishes the foundation for more advanced networking concepts in the
 - ✅ Configure basic Cisco router and switch settings
 - ✅ Configure IPv4 addressing with proper subnetting
 - ✅ Enable router interfaces using the `no shutdown` command
-- ✅ Verify directly connected Cisco devices using CDP
+- ✅ Verify directly connected Cisco devices using `CDP`
 - ✅ Save device configurations to startup configuration
 - ✅ Document the complete implementation for reproducibility
 
